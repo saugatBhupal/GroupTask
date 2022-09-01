@@ -1,0 +1,5 @@
+filter even
+filter odd
+voting 
+loop into list
+guessing game
