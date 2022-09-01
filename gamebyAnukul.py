@@ -1,4 +1,4 @@
-# Guessing only the specific number between 1 to 10 with ifelse :
+# specific number guessing : 
 guess_number = 10
 guess=int(input("Please guess the number between 1 to 10 : "))
 if guess > guess_number:
