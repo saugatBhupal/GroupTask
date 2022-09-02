@@ -1,5 +1,5 @@
-filter even
-filter odd
-voting 
-loop into list
-guessing game
+1.check any 18+ can eligible for voting
+2.Filter odd number from a list
+3.loop into the items of list and print it
+4.filter Even num from a list
+5.Number guessing game
